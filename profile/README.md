@@ -11,7 +11,9 @@ Letakkan file ini di: .github/profile/README.md
 </p>
 
 <h1 align="center">UNUGHA-LAB</h1>
+<h2 align="center">https://github.unugha.ac.id</h2>
 <p align="center">
+  https://github.unugha.ac.id
   Laboratorium inovasi digital Universitas Nahdlatul Ulama Al Ghazali (UNUGHA) — 
   membangun solusi terbuka untuk kampus: sistem peminjaman, HR/SDM, SSDI, otomasi WA, dan ekosistem data.
 </p>
