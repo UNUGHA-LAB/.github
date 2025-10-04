@@ -3,11 +3,11 @@ Letakkan file ini di: .github/profile/README.md
 -->
 
 <p align="center">
-  <img src="./unugha-badge.svg" alt="UNUGHA–LAB Badge" width="360">
+  <img src="/unugha-badge.svg" alt="UNUGHA–LAB Badge" width="360">
 </p>
 
 <p align="center">
-  <img src="./unugha-hero-banner.svg" alt="UNUGHA-LAB Hero Banner" width="100%">
+  <img src="/unugha-hero-banner.svg" alt="UNUGHA-LAB Hero Banner" width="100%">
 </p>
 
 <h1 align="center">UNUGHA-LAB</h1>
