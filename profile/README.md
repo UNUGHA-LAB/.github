@@ -1,13 +1,13 @@
-<!--
-UNUGHA-LAB — Organization Profile README
+<!-- UNUGHA-LAB — Organization Profile README
 Letakkan file ini di: .github/profile/README.md
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNUGHA–LAB-Open%20Tech%20for%20Campus-0b7" alt="UNUGHA-LAB Badge">
-  <img src="https://img.shields.io/badge/Location-Cilacap,%20ID-0078D4" alt="Location">
-  <img src="https://img.shields.io/badge/Focus-EduTech%20%7C%20GovTech%20Campus-6f42c1" alt="Focus">
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Laravel%20%7C%20Supabase%20%7C%20CF%20Workers-0ea5e9" alt="Stack">
+  <img src="unugha-badge.svg" alt="UNUGHA–LAB Badge" width="360">
+</p>
+
+<p align="center">
+  <img src="unugha-hero-banner.svg" alt="UNUGHA-LAB Hero Banner" width="100%">
 </p>
 
 <h1 align="center">UNUGHA-LAB</h1>
@@ -49,7 +49,7 @@ Letakkan file ini di: .github/profile/README.md
 ---
 
 ## 🧩 Proyek Unggulan
-> *Daftar singkat repos prioritas. Tambahkan link repo Anda di tabel ini.*
+> *Tambahkan link repo Anda di tabel ini.*
 
 | Proyek | Deskripsi | Teknologi | Status |
 |---|---|---|---|
@@ -59,7 +59,7 @@ Letakkan file ini di: .github/profile/README.md
 | **waha-notifier** | Plugin notifikasi WhatsApp (broadcast, rate limit, CSV) | PHP, WAHA API | ✅ Prod |
 | **trend-unique-blog** | Blog AI-assisted (OG gen, SEO, cron tren) | Next/React, Supabase, Vercel | 🚧 Dev |
 
-> 📌 Lihat semua repos di tab **Repositories**. Gunakan label: `good first issue`, `help wanted`, `needs-docs`.
+> 📌 Gunakan label: `good first issue`, `help wanted`, `needs-docs`.
 
 ---
 
@@ -113,16 +113,13 @@ Letakkan file ini di: .github/profile/README.md
 ---
 
 ## 📣 Kontak
-- **Website SSDI**: [ssdi.unugha.ac.id](https://ssdi.unugha.ac.id)
+- **Website SSDI**: https://ssdi.unugha.ac.id
 - **Email**: ssdi@unugha.ac.id
 - **Lokasi**: Cilacap, Jawa Tengah, Indonesia
 
 > Ingin bergabung atau kolaborasi? Buat issue di repos terkait atau mulai diskusi di **Discussions**.
 
----
-
 <p align="center">
   Dibangun bersama ❤️ oleh komunitas <b>UNUGHA-LAB</b>. 
   Ayo kontribusi, belajar, dan berdampak nyata untuk kampus!
 </p>
-
